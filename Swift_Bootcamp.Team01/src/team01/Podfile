@@ -1,0 +1,16 @@
+platform :ios, '16.0'
+workspace 'team01'
+
+target 'team01' do
+  use_modular_headers!
+  pod 'Alamofire'
+  pod 'Swinject'
+  pod 'RxSwift', '6.5.0'
+  pod 'RxCocoa', '6.5.0'
+
+  target 'team01Tests' do
+    #inherit! :search_paths
+    pod 'Alamofire'
+  end
+end
+

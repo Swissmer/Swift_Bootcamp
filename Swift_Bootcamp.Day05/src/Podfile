@@ -1,0 +1,15 @@
+platform :macos, '11.0'
+workspace 'day05'
+
+targets = ['task1', 'task2', 'task3', 'task4', 'task5', 'task6', 'task7', 'task8', 'task9', 'task10']
+
+targets.each do |target|
+  target_project = "#{target}/#{target}.xcodeproj"
+  
+  target target do
+    project target_project
+    pod 'RxSwift', '6.5.0'
+    pod 'RxCocoa', '6.5.0'
+  end
+end
+

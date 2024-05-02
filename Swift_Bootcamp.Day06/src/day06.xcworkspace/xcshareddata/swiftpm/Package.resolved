@@ -1,0 +1,51 @@
+{
+  "originHash" : "189af43500a9f4a087f3b6de4812b1b208417bf60bcf821c339dc6889b57fdd9",
+  "pins" : [
+    {
+      "identity" : "realm-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-cocoa.git",
+      "state" : {
+        "revision" : "0a97dda4dd0b77449e55b997cf636651e6187634",
+        "version" : "10.49.0"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "e55176982ed9154899a39693d24609645b81586b",
+        "version" : "14.3.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "49c591234b60fcb00b76c9f4af6b60f7bf63899f"
+      }
+    },
+    {
+      "identity" : "rxrealm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RxSwiftCommunity/RxRealm",
+      "state" : {
+        "revision" : "8806d235b3df1d66bda1fbccf164573698afc2a7",
+        "version" : "4.0.3"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "cec68169a048a079f461ba203fe85636548d7a89",
+        "version" : "5.1.3"
+      }
+    }
+  ],
+  "version" : 3
+}

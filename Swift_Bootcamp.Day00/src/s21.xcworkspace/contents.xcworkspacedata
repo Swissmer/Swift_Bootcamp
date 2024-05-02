@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:task6/task6.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task5/task5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task4/task4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task3/task3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task2/task2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task1/task1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task0/task0.xcodeproj">
+   </FileRef>
+</Workspace>

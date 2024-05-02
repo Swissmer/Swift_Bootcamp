@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Dessert with cookies",
+    "image_url": "dessert_with_cookies",
+    "ingredients": [
+      {
+        "name": "cottage cheese",
+        "description": "100 g."
+      },
+      {
+        "name": "bananas",
+        "description": "1 p."
+      },
+      {
+        "name": "cookies",
+        "description": "2 p."
+      },
+      {
+        "name": "yogurt",
+        "description": "4 tablespoons"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "step": "Take the dishes in which you will serve dessert. Put 2 tablespoons of yogurt and half the norm of cottage cheese on the bottom."
+      },
+      {
+        "number": 2,
+        "step": "Next, put the banana, cut into circles."
+      },
+      {
+        "number": 3,
+        "step": "Crumble cookies on top. Repeat the steps again."
+      }
+    ]
+  },
+  {
+    "name": "Fruit sweets",
+    "image_url": "sweets",
+    "ingredients": [
+    {
+        "name": "dried apricots",
+        "description": "90 g."
+    },
+    {
+        "name": "raisin",
+        "description": "90 g."
+    },
+    {
+        "name": "walnuts",
+        "description": "40 g."
+    },
+    {
+        "name": "honey",
+        "description": "1 tablespoons"
+    },
+    {
+        "name": "cocoa",
+        "description": "2 teaspoons"
+    }
+    ],
+    "steps": [
+    {
+        "number": 1,
+        "step": "Turn the dried apricots and raisins in a meat grinder. Chop the nuts."
+    },
+    {
+        "number": 2,
+        "step": "Mix together nuts, dried fruits, add honey."
+    },
+    {
+        "number": 3,
+        "step": "Mix the mass well."
+    },
+    {
+        "number": 4,
+        "step": "Form a mass of sweets."
+    },
+    {
+        "number": 5,
+        "step": "Sift the cocoa. Put candies on it."
+    },
+    {
+        "number": 6,
+        "step": "Roll in cocoa from all sides."
+    }
+    ]
+  },
+  {
+    "name": "Orange cream",
+    "image_url": "orange_cream",
+    "ingredients": [
+    {
+        "name": "orange",
+        "description": "3 p."
+    },
+    {
+        "name": "sugar",
+        "description": "150 g."
+    },
+    {
+        "name": "butter",
+        "description": "100 g."
+    },
+    {
+        "name": "egg",
+        "description": "4 p."
+    },
+    {
+        "name": "potato starch",
+        "description": "2 teaspoons"
+    }
+    ],
+    "steps": [
+    {
+        "number": 1,
+        "step": "Remove the zest from the oranges, and then squeeze out the juice."
+    },
+    {
+        "number": 2,
+        "step": "Add the zest and starch to the juice, stir thoroughly"
+    },
+    {
+        "number": 3,
+        "step": "Separate the egg yolks from the whites and mix the yolks with sugar, the whites will not be needed."
+    },
+    {
+        "number": 4,
+        "step": "Add the yolks and sugar to the orange juice in a saucepan, mix and put on a low heat. When the mixture is heated, addthe pieces of butter to the saucepan."
+    },
+    {
+        "number": 5,
+        "step": "Stirring, cook the cream until thickened over low heat."
+    },
+    {
+        "number": 6,
+        "step": "Pour the cream into a bowl and cool completely. Pour the orange custard into sterilized jars and store in the refrigerator."
+    }
+    ]
+  }
+]
+

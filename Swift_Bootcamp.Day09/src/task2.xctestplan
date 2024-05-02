@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "3F5D367C-A60A-46A1-BD5F-C3FDC2323A21",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:task2.xcodeproj",
+      "identifier" : "EFD09D2E2BB309EE0053D3AE",
+      "name" : "task2"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:task2.xcodeproj",
+        "identifier" : "EFD09D3C2BB309FB0053D3AE",
+        "name" : "SimpleCalculatorTests2"
+      }
+    }
+  ],
+  "version" : 1
+}

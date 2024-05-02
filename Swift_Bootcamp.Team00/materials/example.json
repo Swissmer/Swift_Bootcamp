@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bourbon Molasses Butter",
+    "image_url": "Bourbon-molasses-butter.png",
+    "steps": [
+      {
+        "ingredients": [
+          {
+            "id": 10014037,
+            "name": "bourbon"
+          },
+          {
+            "id": 19335,
+            "name": "sugar"
+          }
+        ],
+        "number": 1,
+        "step": "Combine the bourbon and sugar in a small saucepan and cook over high heat until reduced to 3 tablespoons, remove and let cool."
+      },
+      {
+        "ingredients": [
+          {
+            "id": 19304,
+            "name": "molasses"
+          },
+          {
+            "id": 10014037,
+            "name": "bourbon"
+          },
+          {
+            "id": 2047,
+            "name": "salt"
+          }
+        ],
+        "number": 2,
+        "step": "Put the butter, molasses, salt and cooled bourbon mixture in a food processor and process until smooth."
+      },
+      {
+        "ingredients": [],
+        "number": 3,
+        "step": "Scrape into a bowl, cover with plastic wrap and refrigerate for at least 1 hour to allow the flavors to meld."
+      },
+      {
+        "ingredients": [],
+        "number": 4,
+        "step": "Remove from the refrigerator about 30 minutes before using to soften."
+      }
+    ]
+  }
+]

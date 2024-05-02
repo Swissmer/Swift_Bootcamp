@@ -1,0 +1,14 @@
+platform :macos, '11.0'
+workspace 'day08'
+
+targets = ['task2']
+
+targets.each do |target|
+  target_project = "#{target}/#{target}.xcodeproj"  
+  target target do
+    project target_project
+      use_modular_headers!
+      pod 'Swinject'
+  end
+end
+
