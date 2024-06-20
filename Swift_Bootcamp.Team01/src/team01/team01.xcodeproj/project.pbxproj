@@ -151,6 +151,7 @@
 		EF0E33BE2BBB44FC00CD1E71 /* team01 */ = {
 			isa = PBXGroup;
 			children = (
+				EF0E33FA2BBB47A900CD1E71 /* Controller */,
 				EF0E33EE2BBB470B00CD1E71 /* View */,
 				EF0E33F92BBB47A200CD1E71 /* Model */,
 				EF0E33BF2BBB44FC00CD1E71 /* team01App.swift */,
@@ -186,7 +187,6 @@
 			children = (
 				EF0E34052BBB482B00CD1E71 /* Network */,
 				EF0E33FD2BBB47C600CD1E71 /* Models */,
-				EF0E33FA2BBB47A900CD1E71 /* Controller */,
 			);
 			path = Model;
 			sourceTree = "<group>";
