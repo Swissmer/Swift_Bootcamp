@@ -14,13 +14,15 @@
 * Alamofire
 * MVC
 
-День 0-4: Консольные приложения.
-День 5: RXSwift
-День 6: Realm
-День 7: Alamofire
-День 8: Swinject
-День 9: XCTest
-Team 00-01 (Групповые)
+Содержание:
+
+ * День 0-4: Консольные приложения.
+ * День 5: RXSwift
+ * День 6: Realm
+ * День 7: Alamofire
+ * День 8: Swinject
+ * День 9: XCTest
+ * Team 00-01 (Групповые)
 
 ## How it work
 
